@@ -1,0 +1,778 @@
+body{
+    padding: 0%;
+    margin: 0;
+}
+.one{
+    margin-left: 10%;
+}
+.two{
+    width: 120px;
+   
+}
+.three{
+    margin-left: 4%;
+}
+.jj{
+    margin-left: -20%;
+}
+
+
+
+.coll{
+    background-color: #0287db;
+    color:white;
+    border: none;
+    text-decoration: none;
+}
+.coll2{
+    color:white !important;
+    text-decoration: none;
+}
+
+.gig{
+    /* background-image: url(images/Screenshot\ 2025-07-03\ at\ 08.26.18.png);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    width: 100%;
+    height: 650px;
+    padding: 0;
+}
+.raw{
+    width: 150px;
+}
+.four{
+    width: 200px;
+}
+.five{
+    font-size: 40px;
+}
+
+.fiv{
+    position: relative;
+    font-size: 13px;
+  
+}
+.mag{
+    margin-top: -25%;
+    margin: 0;
+}
+
+
+.magg{
+margin-top: -20%;
+}
+.maggg{
+margin-top: 2%;
+}
+.btt{
+    width: 200px;
+    background-color: white;
+    border: none;
+}
+.fivee{
+    font-size: 55px;
+}
+.colll{
+    background-color: #0081cf;
+    
+  
+}
+.collll{
+    background-color: #f0f0f0; 
+    
+  
+}
+.tat{
+    width: 120px;
+}
+.tatt{
+    width: 100px;
+}
+.coc{
+    color: #0081cf;;
+}
+.cal{
+    background-color: #f0f0f0;
+    opacity: 0.5;
+}
+.cac{
+    
+   width: 300px; 
+   background-color: #c0e7fe;
+   color: #0081cf;
+}
+.cacc{
+    width: 200px;
+    background-color: #0081cf;
+    color: white;
+    border: none;
+}
+
+.watt{
+    font-family: sans-serif;
+    font-size: 25px;
+
+ 
+  
+}
+.wattt{
+    font-family: sans-serif;
+    font-size: 19px; 
+    font-weight: 100;
+
+}
+.sev{
+    background-color: #f0f0f0; 
+}
+.ca{
+    width: 200px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.mg{
+    margin-top: 7%;
+}
+.mgg{
+    font-size: 45px;
+}
+.caa{
+    width: 150px;
+    background-color: black;
+    color: #0081cf;
+    border: none;
+}
+.caaa{
+    width: 200px;
+    background-color: black;
+    color: #0081cf;
+    border: none;
+}
+.cak{
+    width: 220px;
+    background-color: #0081cf;
+    color: white;
+    border: none;
+}
+.tor{
+    font-size: 45px;
+}
+.mop{
+    margin-top: -2%;
+}
+.pat{
+    font-size: 20px;
+}
+.cav{
+    width: 250px; 
+    background-color: #c0e7fe;
+    color: #0081cf;
+ }
+.pap{
+    font-size: 32px;
+    color: whitesmoke;
+}
+.kig{
+    width: 600px;
+    color: rgb(0, 145, 255);
+    background-color:rgb(228, 224, 224);
+    border: none;
+    position: relative;
+   
+}
+.kigg{
+    width: 100px;
+    border: none;
+}
+.jik{
+    background-color: #7983b9;
+    position: absolute;
+    width: 100px;
+    display: inline-block;
+    padding: 17px;
+    border-radius: 70px;
+    text-align: center;
+
+}
+.mak{
+    margin-top: -3%;
+    margin-left: 68%;
+}
+.kmak{
+    position: absolute;
+    width: 300px;
+    display: inline-block;
+    padding: 6px;
+    border-radius: 70px;
+    text-align: center;
+    margin-top: -1%;
+    margin-left: -95%;
+    background-color: #0287db;
+    color: white;
+}
+.maa{
+    margin-top: 6%;
+}
+.mann{
+    height: 500px;
+}
+.cat{
+    width: 50px;
+}
+.bak{
+    background-color: black;
+
+    color: rgb(242, 236, 223);
+   
+    
+}
+.me{
+    font-size: 13px;
+}
+.tee{
+    font-size: 13px;
+}
+
+.wit{
+    width: 50px;
+}
+.vint{
+padding: 1px;
+}
+
+.wiit{
+    padding: 1px;
+}
+.mot{
+    margin-top: 5px;
+}
+.drop{position: relative;
+display: inline-block;}
+.dropp{position: relative;
+    display: inline-block;}
+ .bit {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    
+  }
+/* .cont{
+    max-width: none !important; 
+
+
+} */
+.fivv{
+    display: none;
+    width: 230px;
+    font-size: 13px;
+    
+
+}
+.fevv{
+    display: none;
+    position: absolute;
+    padding: 5px;
+    width: 220px;
+    border: none;
+    top: 0;
+    margin-top: -1px;
+    
+
+}
+.fivv .bit{
+    display: block;
+}
+
+@media (max-width:576px){
+    .gig{
+        width: 700px;
+    height: 680px;
+    }
+   
+    .witt{
+        
+    margin: 0;
+    padding: 0;
+          
+    }
+   .mgg{
+    font-size: 40px;
+   }
+   .five{
+    font-size: 20px;
+    text-align: center;
+   }
+   .mikk{
+    text-align: center;
+   }
+
+}
+
+@media (min-width:800px){
+    .fivv .bit{
+        float: none;
+        display: block;
+    }
+    :hover + .fivv{
+        display: block;
+        width: 220px;
+        cursor: pointer;
+        margin-top: 30%;
+        padding: 10px;
+        
+    }
+    .dropdown:hover .fivv{
+        display: block;
+        color: #333;
+      }
+      .subdropdown:hover .fevv{
+        display: block;
+        color: #333;
+      }
+      
+     .dropp:hover + .fevv{
+        display:block;
+        padding: 5px;
+        top: 0;
+        width: 220px;
+        border: 1px black;
+        margin-right:-50%;
+      
+    }
+    
+    /* .mot{
+       margin-left: 10%;
+       margin-right: 10%;
+    } */
+}
+@media( max-width:975px) {
+       .cont{
+    width: 100% !important;
+   padding-left: 0% !important;  
+   padding-right: 0 !important;       
+   }
+
+     
+   .sev{ width: 100%;}
+      
+   .collll{
+       width: 100%;
+      
+   }
+   .wiit{
+       /* flex-direction: column; */
+   }
+   .wit{ 
+       display: block;
+       align-content: center;
+       margin: auto;   
+     width: 60px;
+   }
+   .kig{
+       width: 250px;
+   }
+   .kmak{
+    width: 120px;
+    font-size: 10px;
+   
+   }
+   .mak{
+       margin-top: -7%;
+      
+       margin-left: 22%;
+   } 
+   .bak{
+    text-align: center;
+   }
+   .bakk{
+    text-align: center;
+   }
+  
+}
+ 
+.whoweare1{
+  position: relative;
+    background-image: url(imagess/imgi_13_leighann-blackwood-hx87JWG4yCI-unsplash-1.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top:-2%;
+    padding: 0;
+}
+.whoweare2{
+  position: absolute;
+    margin-top: 25%;
+    margin-left: -4%;
+    font-size: 50px;
+    }
+    .wwa3{
+        font-size: 50px;
+    }
+    .wwa4{
+        font-size: 14px;
+    }
+    .wwa5{
+        margin-top: 10%;
+    }
+    .wwa6{
+        border: 2px solid black;
+    }
+    .wwa7{
+        background-color: rgb(0, 136, 255);
+       width: 120px;
+        border: none;
+    }
+    .wwa8{
+        border: 2px solid black;
+        background-color: #0287db;
+    }
+    .wwa9{
+          background-image: url(imagess/imgi_5_Group-246.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100px;
+          height: 100px;
+    }
+ .wwa10{
+    background-color: rgb(100, 208, 255);
+    width: 250px;
+    border: none;
+    color: #0287db;
+ }
+ .wwa11{
+    background-image: url(imagess/imgi_4_Group-242.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.wwa12{
+    background-image: url(imagess/imgi_3_Group-59.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.wwa13{
+    border: none;
+    width: 150px;
+}
+.whoweare3{
+      position: relative;
+      background-image: url(imagess/imgi_7_Group-243.jpg);
+      height: 500px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100%;
+      margin-top:-2%;
+      padding: 0;
+  }
+  .whoweare4{
+    position: absolute;
+      margin-top: 18%;
+      font-size: 45px;
+      }
+      .wac{
+        margin-top: 8%;
+      }
+      .mav{
+        margin-top: 5%;
+      }
+      .torr{
+        font-size: 50px;
+      }
+      .caco{
+    
+        width: 300px; 
+        background-color: #c0e7fe;
+        color: #0081cf;
+     }
+     .product1{
+        background-image: url(imagess/imgi_8_pattern-bg.jpg);
+       
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 500px;
+        width: 100%;
+     }
+     .pet{
+        font-size: 45px;
+        color: white;
+     }
+     .mott{
+        border: 3px;
+        border-color: #5ca5e1;
+        border-radius: 70px;
+     }
+  .mott2{
+    
+  
+    margin-bottom: -5%;
+  }
+ .mott3{
+    max-width: 30% !important;
+    
+ }
+ .whoweare5{
+    position: relative;
+    background-image: url(imagess/imgi_7_african-american-woman-black-girl-black-woman-chair-1181414-1.png);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top:-2%;
+    padding: 0;
+    /* opacity: 0.8; */
+    filter: brightness(80%);
+}
+.whoweare6{
+  position: absolute;
+    margin-top: 20%;
+    color: white;
+    }
+   .mrr{
+    font-size: 45px;
+   }
+   .product2{
+    background-image: url(imagess/imgi_8_pattern-bg.jpg);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 600px; */
+    width: 100%;
+ }
+ .whoweare7{
+    position: relative;
+    background-image: url(imagess/imagesss/imgi_25_Group-249.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top:-2%;
+    padding: 0;
+}
+.whoweare8{
+  position: absolute;
+    margin-top: 23%;
+    font-size: 45px;
+    }
+    .watt{
+        position: relative;
+        background-color: #eeeeee;
+        width: 400px;
+        border-radius: 70px;
+        padding: 17px;
+        color:  #0287db;
+        border: none;
+    }
+    .wat{
+       position: absolute;
+        background-color: #0287db;
+        width: 100px;
+        color: white;
+        border-radius: 70px;
+        padding: 5px;
+        border: none;
+
+    }
+    .nott{
+        font-size: 16px;
+    }
+    .nut{
+        margin-left: -19%;
+        margin-top: 1%;
+    }
+    .bot{
+        width: 500px;
+        border-radius: 70px;
+        color: #eeeeee;
+        padding: 10px;
+        background-color: white;
+        border-color: #eeeeee;
+    }
+    .ful{
+        font-size: 13px;
+        color: #5ca5e1;
+    }
+    .full{
+        font-size: 20px;
+    }
+    .fot{
+        height: 250px;
+    }
+
+    .whoweare9{
+        
+          background-image: url(imagess/imgi_8_SLA-2-scaled-1.jpg);
+          height: 500px;
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100%;
+          margin-top:-2%;
+          padding: 0;
+    }
+    .product3{
+        background-image: url(imagess/imgi_8_pattern-bg.jpg);
+       
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* height: 600px; */
+        width: 100%;
+     }
+     .tsn{
+        margin-top: 15%;
+     }
+     .pog{
+        margin-top: 3%;
+     }
+     .kool{
+        font-size: 43px;
+
+     }
+     .jak{
+        background-color: #eeeeee;
+     }
+    .met{
+        width: 150px;
+        background-color: #27bdbd;
+        color: white;
+        padding: 15px;
+        border: none;
+
+    }
+    .mete{
+        width: 150px;
+        background-color:#1f497d;
+        color: #5ca5e1;
+        padding: 8px;
+        border: none; 
+        border-radius: 70px;
+    }
+
+    .meta{
+        width: 100px;
+        background-color:#5ca7e5;
+        color: #5ca7e5;
+        padding: 8px;
+        border: none; 
+        border-radius: 70px;  
+    }
+    
+    .meta:hover {
+        visibility: visible; 
+        color: white;
+        cursor: pointer;
+   
+    }
+    .mek{
+        background-color: black;
+        color: white;
+    }
+    .top{
+        margin-top: 18%;
+    }
+    .titt{
+        margin-top: 45%;
+    }
+    .kag{
+        width: 600px;
+        color: rgb(0, 145, 255);
+        background-color:rgb(228, 224, 224);
+        
+        border: none;
+        position: relative;
+    }
+    .kagg{
+        position: absolute;
+        width: 300px;
+        display: inline-block;
+        padding: 6px;
+        border-radius: 70px;
+        text-align: center;
+        margin-top: -1%;
+        margin-left: 10%;
+        background-color: #0287db;
+        color: white;
+    }
+    @media (max-width:800px) {
+        .kag{
+            width: 250px;
+            font-size:10px;
+            }
+            .kagg{
+                 width: 100px;
+            }
+        
+    }
+
+
+
+.jobm{
+        background-image: url(imagess/images22/imgi_23_SLA-CAREER-FAIR-BANNERS-2-scaled.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width:100%;
+        height:100%;
+       background-attachment: fixed;
+        
+        
+  }
+  .jobm1{
+    font-size: 100px;
+    color: white;
+   margin-top:15%;
+  }
+  .jobm2{
+    color: white;
+    font-size: 38px;
+  }
+  .jobm3{
+    color:  #0287db;
+    font-size: 40px;
+  }
+  .sec{
+    font-size: 17px;
+  }
+  .secc{
+    width: 50px;
+    color: #74C0FC;
+
+  }
+  .seg{
+    font-size: 20px;
+  }
+  .mett{
+    background-image: linear-gradient(#0288db, #83b6e1, #afbdd8, #d7c4d2);
+   border-radius:0;
+   width: 100%;
+  }
+  .mob{
+    width: 20px;
+  }
+  .mobb{
+    width: 15px;
+  }
+  .ww{
+    width: 60px;
+    border-radius: 50%;
+    height: 60px;
+  }
+  .jobm4{
+    color:  #0287db;
+    font-size: 30px;
+  }
+  .jobm5{
+    border-right:3px solid black !important;
+  }
+  @media (max-width:800px) {
+    .job6{
+     display: flex;
+     flex-direction: column;
+     border:1px solid black !important;
+        }
+       
+        
+}
+   
