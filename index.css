@@ -112,6 +112,12 @@ margin-top: 2%;
     color: white;
     border: none;
 }
+.cacc:hover{
+    background-color: white;
+    color: #0081cf;
+    border: 1px solid #0081cf;
+    cursor: pointer;
+}
 
 .watt{
     font-family: sans-serif;
@@ -144,7 +150,7 @@ margin-top: 2%;
 .caa{
     width: 150px;
     background-color: black;
-    color: #0081cf;
+    color: white;
     border: none;
 }
 .caaa{
@@ -153,11 +159,21 @@ margin-top: 2%;
     color: #0081cf;
     border: none;
 }
+.caaa:hover{
+    color: white;
+    cursor: pointer;
+}
 .cak{
     width: 220px;
     background-color: #0081cf;
     color: white;
     border: none;
+}
+.cak:hover{
+    background-color: white;
+    color: #0081cf;
+    border: 1px solid #0081cf;
+    cursor: pointer;
 }
 .tor{
     font-size: 45px;
