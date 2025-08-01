@@ -303,6 +303,7 @@ display: inline-block;}
     display: block;
 }
 
+
 @media (max-width:576px){
     .gig{
         width: 700px;
@@ -329,6 +330,10 @@ display: inline-block;}
     display: block;
     margin: auto;
    }
+   .jojo{
+    display: none;
+   }
+   
 
 }
 
